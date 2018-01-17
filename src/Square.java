@@ -1,6 +1,7 @@
 public class Square {
     double a;
 
+
     double calculateArea (double a) {
         return a * a;
     }

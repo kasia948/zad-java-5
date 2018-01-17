@@ -24,6 +24,5 @@ public class ShapeCalculator {
         System.out.println("Triangle area is "+triArea);
         double triPer=trangle1.calculatePerimeter(7.0,6.0, 5.0);
         System.out.println("Triangle perimetr is "+triPer);
-
     }
 }

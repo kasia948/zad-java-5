@@ -4,6 +4,7 @@ public class Triangle {
     double b;
     double c;
 
+
     double calculateArea (double a, double h) {
         return a * h*0.5;
     }
