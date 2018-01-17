@@ -4,7 +4,6 @@ public class Device {
     String type;
     double price;
 
-
     public Device(String c, String p, String t, double pr) {
         this.code = c;
         this.producer = p;
