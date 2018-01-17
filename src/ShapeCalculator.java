@@ -26,18 +26,4 @@ public class ShapeCalculator {
         System.out.println("Triangle perimetr is "+triPer);
 
     }
-   // double squareArea(Square square){  }
-
-   // Square square = new Square(5,6);
-   // double squareArea =
-
-
-//    Rectangle square = new Rectangle(5, 10);
-//    double rectArea = rect.calculateArea();
-//System.out.print(rectArea); //wyświetla 50
-
-
-//    double circleArea(Circle cirle){  }
-//    double trianglePerimeter(Triangle triangle){  }
-//    double rectPerimeter(Rectangle rectangle){ }
 }

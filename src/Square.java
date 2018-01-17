@@ -8,5 +8,4 @@ public class Square {
     double calculatePerimeter (double a) {
         return 4*a;
     }
-
 }

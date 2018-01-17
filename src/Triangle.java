@@ -7,7 +7,6 @@ public class Triangle {
     double calculateArea (double a, double h) {
         return a * h*0.5;
     }
-
     double calculatePerimeter (double a, double b, double c) {
         return a+b+c;
     }
