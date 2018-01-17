@@ -7,8 +7,6 @@ public class Warehouse {
         device1.getInfo();
         device2.getInfo();
         device3.getInfo();
-
-
     }
 }
 
