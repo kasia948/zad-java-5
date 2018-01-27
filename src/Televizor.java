@@ -1,5 +1,5 @@
 public class Televizor {
-    boolean power=true;
+    boolean power;
 
     public Televizor(boolean power) {
         this.power = power;
@@ -7,16 +7,17 @@ public class Televizor {
 
     void turnOn() {
         power = true;
-        System.out.println("TV is on");
     }
 
     void turnOff() {
         power = false;
-        System.out.println("TV is off");
     }
 
-        void showStatus () {
-            power = false;
-            System.out.println("Tv is off");
+    void showStatus() {
+        if (power ==false){
+            System.out.println("TV is OFF");
+        } else {
+            System.out.println("TV is ON");
         }
+    }
 }
